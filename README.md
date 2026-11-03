@@ -108,10 +108,6 @@ A full-stack matrimony platform with membership management and administrative wo
 
 **Tech:** React · Node.js · Express.js · Prisma · MySQL
 
-### 🚌 Trackobus
-
-A transportation-focused application exploring practical tracking and user-friendly travel experiences.
-
 ---
 
 ## `04 / GITHUB ANALYTICS`
@@ -133,9 +129,7 @@ A transportation-focused application exploring practical tracking and user-frien
 ## `05 / CONTRIBUTION ACTIVITY`
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Saru-Work/Saru-Work/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%" />
-
+  <img src="https://raw.githubusercontent.com/Saru-Work/Saru-Work/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" width="100%" />
 </div>
 
 ---

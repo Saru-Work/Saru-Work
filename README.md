@@ -11,7 +11,7 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Saru--Work-181717?style=for-the-badge&logo=github)](https://github.com/Saru-Work)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/saruhasan-thavachelvan)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saruatwork@email.com)
 
 <img src="https://komarev.com/ghpvc/?username=Saru-Work&style=for-the-badge&color=00F7FF" alt="Profile Views"/>

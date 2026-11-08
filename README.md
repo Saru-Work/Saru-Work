@@ -8,7 +8,7 @@
 <br/>
 
 <a href="https://github.com/Saru-Work"><img src="https://img.shields.io/badge/GitHub-Saru--Work-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/saruhasan-thavachelvan"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:saruatwork@email.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=Saru-Work&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS" />
 
@@ -215,7 +215,7 @@ Full-stack matrimony platform with membership management and admin workflows.
 **Open to collaborating on scalable backends, AI/RAG systems, or anything ambitious. Let's build something!**
 
 <a href="https://github.com/Saru-Work"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" /></a>
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+<a href="https://linkedin.com/in/saruhasan-thavachelvan"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
 <a href="mailto:saruatwork@email.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>

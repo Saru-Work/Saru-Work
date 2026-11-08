@@ -1,4 +1,3 @@
-# Save as .github/workflows/snake.yml in the Saru-Work/Saru-Work repo
 name: Generate Contribution Snake
 
 on:

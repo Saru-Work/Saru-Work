@@ -8,7 +8,7 @@
 <br/>
 
 <a href="https://github.com/Saru-Work"><img src="https://img.shields.io/badge/GitHub-Saru--Work-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://linkedin.com/in/saruhasan-thavachelvan"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:saruatwork@email.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=Saru-Work&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS" />
 
@@ -17,8 +17,6 @@
 <br/>
 
 ## `01 / ABOUT ME`
-
-<img align="right" width="340" src="https://github-readme-streak-stats.demolab.com?user=Saru-Work&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" />
 
 I'm a **Full Stack Developer** from Sri Lanka 🇱🇰 who loves going beyond "it works" to **"it scales."**
 I enjoy designing systems that stay fast and reliable under load — and lately I've been
@@ -30,8 +28,6 @@ that ground LLMs in real data.
 - 💻 Shipping full-stack products with **Next.js, React, Node.js, FastAPI & TypeScript**
 - ☁️ Learning **Docker, CI/CD & cloud infrastructure** to take projects to production
 - 🎓 Undergraduate at **Sabaragamuwa University of Sri Lanka**
-
-<br clear="right"/>
 
 ```typescript
 const saruhasan = {
@@ -219,7 +215,7 @@ Full-stack matrimony platform with membership management and admin workflows.
 **Open to collaborating on scalable backends, AI/RAG systems, or anything ambitious. Let's build something!**
 
 <a href="https://github.com/Saru-Work"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" /></a>
-<a href="https://linkedin.com/in/saruhasan-thavachelvan"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
 <a href="mailto:saruatwork@email.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
